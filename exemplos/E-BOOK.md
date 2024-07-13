@@ -1,20 +1,21 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 7 páginas apresenta o universo utópico e futurísco de Yokio, uma jovem que perdeu sua família pela guerra entre os rebeldes e o governo corrupto.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Google Gemini](https://gemini.google.com/app)** para ideias de roteirização
+- IA Generativa **[Sudowrite](https://editor.sudowrite.com/app)** para a escritura do e-book;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Usei o "Gemini" para me dar algumas ideias de um tema para o livro, e utilizei o "Sudowrite" para revisar formas de se escrever o texto, estruturar o conteúdo em si e refinar minhas ideias para as histórias. Por fim, o "Leonardo AI" foi usado para gerar artes conceituais dos personagens. Além do uso rápido do Microsoft Word para formatações.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Uma história intrigante sobre medo e determinação ao sobreviver em uma sociedade utópica.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Lutava2245/lab-natty-or-not/blob/ddf34fb695602589db2f98eae6c7122ba4b5f38b/exemplos/Yokio's%20Hope.docx)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi muito divertido, apreendi muito criando a história de Yokio, além de ainda me surpreender com o poder que a Inteligência Artificial tem para nos proporcionar experiências intrigantes.
